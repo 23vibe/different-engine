@@ -1,11 +1,6 @@
 {
   "embeds": [
     {
-      "platform": "Mixcloud",
-      "title": "Latest Mix on Radio 23 [1:11:50]",
-      "iframe": ""
-    },
-    {
       "platform": "SoundCloud",
       "title": "TREBASS 2024",
       "iframe": "<iframe width=\"100%\" height=\"100\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1980405891&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe>"
@@ -20,28 +15,12 @@
 
   "localFiles": [
     {
-      "title": "Elektrick Mann Ladyscraper",
-      "file": "assets/local-music/Elektrick_Ladyscraper.mp3"
+      "title": "Track name",
+      "file": "assets/local-music/file.mp3"
     },
-    {
-      "title": "Hardcore_Gleb mashup",
-      "file": "assets/local-music/Hardcore_Gleb.mp3"
-    },
-    {
-      "title": "Maxim_Dokalenko & Šusta (guitar)",
-      "file": "assets/local-music/Maxim_Dokaenko_Susta.mp3"
-    },
-    {
-      "title": "Maxim_Dokalenko_scratchtek",
-      "file": "assets/local-music/scratch_tek.mp3"
-    },
-    {
-      "title": "Baar-Betash-Toxx_mashup",
-      "file": "assets/local-music/Baar_Beatsh_Toxx_mashup.mp3"
-    },
-    {
-      "title": "pivo_teaser mashup",
-      "file": "assets/local-music/pivo_teaser.mp3"
+     {
+      "title": "Track name",
+      "file": "assets/local-music/file.mp3"
     }
   ]
 }
