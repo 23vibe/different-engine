@@ -1,7 +1,7 @@
 {
-  "name": "Maxim Dokalenko",
-  "tagline": "— DJ · Booze · Mashup · Lazy Bastards · Radio23cz —",
-  "heroDesc": "Funky, Breaks, Drum & Bass, Tekno, Breakcore, Hardcore, Speedcore",
+  "name": "Different Engine",
+  "tagline": "— DJ · Mashup · Radio23cz —",
+  "heroDesc": "Techno",
   "bioPhoto": "assets/bio-photo.jpg",
 
   "bio": [
@@ -12,13 +12,13 @@
     "Cheers!"
   ],
 
-  "tags": ["Funky, Breaks, Drum & Bass, Tekno, Breakcore, Hardcore, Speedcore, DJ, Promoter, Studio, Radio23cz Supporter, Vinyl, Digital, Mashup, Hangover, Data"],
-  "genres": ["Tekno, Breakcore, Hardcore, Speedcore"],
+  "tags": ["Techno, DJ, Promoter, Studio, Radio23cz Supporter, Vinyl, Digital, Mashup, Hangover, Data"],
+  "genres": ["Techno, Breakbeat"],
 
   "socials": [
-    { "platform": "Mixcloud",   "url": "https://www.mixcloud.com/maximdokalenko/" },
-    { "platform": "SoundCloud", "url": "https://soundcloud.com/maxim-dokalenko" },
-    { "platform": "Bandcamp",   "url": "https://bandcamp.com/maximdokalenko/" },
+    { "platform": "Mixcloud",   "url": "" },
+    { "platform": "SoundCloud", "url": "https://soundcloud.com/differentengine" },
+    { "platform": "Bandcamp",   "url": "" },
     { "platform": "Discogs",  "url": "https://www.discogs.com/artist/5829811-Maxim-Dokalenko" },
     { "platform": "Radio23cz FB",  "url": "https://www.facebook.com/radio23cz/" },
     { "platform": "My Past",  "url": "https://23vibe.github.io/arrow/" }

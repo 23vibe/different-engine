@@ -1,4 +1,4 @@
-/**
+	/**
  * app.js — DJ Maxim Dokalenko Promo Site
  * Loads all content from JSON files, renders each section.
  * To customise: edit data/content.json, data/events.json, data/music.json
